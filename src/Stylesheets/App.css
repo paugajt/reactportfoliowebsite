@@ -1,0 +1,144 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 40vmin;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+CSS from old project
+
+body {
+
+  background: linear-gradient(#303030, white);
+}
+
+
+.img-responsive {
+  height: auto;
+  width: auto;
+  max-height: 72px;
+  max-width: 250px;
+}
+
+.heading {
+  text-align: center;
+}
+
+#homename {
+  font-size: 400%;
+}
+
+.img-circle {
+    border-radius: 50%;
+    height: 300px;
+    width: 15%;
+}
+
+.projects-img {
+	height: 300px;
+	width: 750px;
+}
+
+#school_info {
+	text-align: center;
+}
+
+.col {
+	column-count: 3;
+	column-gap: 20px;
+	list-style-position: inside;
+	display: inline-block;
+}
+
+.exp-col {
+  column-count: 2;
+  column-gap: 20px;
+  list-style-position: inside;
+  display: inline-block;
+}
+
+#exp-add {
+  text-indent: 150px;
+}
+
+#skills {
+	text-indent: 75px;
+}
+
+.resume-section {
+	text-indent: 175px;
+}
+
+.resume-section-center {
+	text-align: center;
+}
+
+.resume-info {
+	margin: 0;
+	text-indent: 175px;
+	font-weight: bold;
+}
+
+.resume-text-body {
+	margin-left: 175px;
+	width: 80%;
+
+}
+
+.info hr {
+	margin-left: 175px;
+}
+
+.job-date {
+  float: right;
+  margin-right: 125px;
+}
+
+#aboutme-top {
+	height: 300px;
+	width: 250px;
+}
+
+#resume {
+	
+}
+
+.about-me-text {
+	margin-left: 15%;
+	margin-right: 15%;
+}
+
+.about-me-accolades {
+	margin-left: 15%;
+	margin-rigth: 15%;
+}
+
+.accolades {
+	margin-left: 15%;
+}

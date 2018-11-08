@@ -1,8 +1,9 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
-import App from './App';
+import './Stylesheets/index.css';
+import App from './Components/App';
 import * as serviceWorker from './serviceWorker';
+import Navbar from './Components/Navbar';
 
 ReactDOM.render(<App />, document.getElementById('root'));
 
